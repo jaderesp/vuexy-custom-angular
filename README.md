@@ -1,5 +1,5 @@
 # Vuexy - Angular Admin Template
-
+Documentação via vuexy docs [vuexy-docs](https://demos.pixinvent.com/vuexy-angular-admin-template/documentation/).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
